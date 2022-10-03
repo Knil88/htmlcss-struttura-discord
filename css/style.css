@@ -1,0 +1,37 @@
+/* Regole Generali */
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding0;
+}
+
+/* Intestazione */
+
+#intro{
+    height: 400px;
+    background-color: blueviolet;
+}
+/*barra navigazione   */
+#barra{
+    background-color: chocolate;
+    width: 80%;
+    margin: auto;
+    height: 100px;
+
+}
+
+
+/* Contenuto Principale */
+main{
+    background-color: chartreuse;
+    height: 500px;
+
+}
+
+
+/* Footer */
+#finale{height: 300px;
+    background-color: red;
+
+}
