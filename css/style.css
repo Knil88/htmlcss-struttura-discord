@@ -87,6 +87,30 @@ main{
     height: 500px;
 
 }
+.flex-container{
+    width: 80%;
+    margin: auto;
+    background-color: darkgreen;
+    height: 300px;
+    display: flex;
+    justify-content: flex-end;
+}
+.flex-item{
+    
+    width: 250px;
+    height: 300px;
+    border: black solid 1px;
+}
+.blue{
+    background-color: blue;
+
+}
+.yellow{
+    background-color: yellow;
+}
+
+
+
 
 
 /* Footer */
