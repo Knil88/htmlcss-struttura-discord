@@ -115,7 +115,16 @@ p{
     padding-top: 70px;
 }
 
-
+.green{
+    background-color: green;
+   
+    height: 300px;
+    
+}
+#spiegazione , .green{
+    width: 80%;
+    margin: 20px auto;
+}
 
 /* Footer */
 #finale{height: 300px;
